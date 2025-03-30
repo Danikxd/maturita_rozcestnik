@@ -1,0 +1,18 @@
+[submodule "maturita_web_scraper"]
+	path = maturita_web_scraper
+	url = https://github.com/Danikxd/maturita_web_scraper
+[submodule "maturita_web"]
+	path = maturita_web
+	url = https://github.com/Danikxd/maturita_web
+[submodule "maturita_database_editor"]
+	path = maturita_database_editor
+	url = https://github.com/Danikxd/maturita_database_editor
+[submodule "maturita_database_saver"]
+	path = maturita_database_saver
+	url = https://github.com/Danikxd/maturita_database_saver
+[submodule "maturita_database_fetcher"]
+	path = maturita_database_fetcher
+	url = https://github.com/Danikxd/maturita_database_fetcher
+[submodule "maturita_email_sender"]
+	path = maturita_email_sender
+	url = https://github.com/Danikxd/maturita_email_sender
